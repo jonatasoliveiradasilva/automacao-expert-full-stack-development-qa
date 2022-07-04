@@ -1,0 +1,4 @@
+/* seletor negativo */
+body :not(p) {
+    background-color: #FF0000;
+}

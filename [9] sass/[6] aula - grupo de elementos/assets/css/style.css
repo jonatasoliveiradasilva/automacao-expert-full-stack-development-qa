@@ -1,0 +1,22 @@
+nav {
+  background-color: #EEEEEE;
+  height: 100px;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li {
+  display: inline-block;
+}
+
+nav li a {
+  display: block;
+  background-color: #CCCCCC;
+  padding: 10px;
+  text-decoration: none;
+  color: #000000;
+}
